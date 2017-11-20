@@ -7,6 +7,7 @@ describe('Sample spec', () => {
 
     expect(a).toBe(true);
   });
+
   xit('will not work', () => {
     expect(false).toBe(true);
   });
