@@ -9,3 +9,4 @@ const Application = Backbone.Model.extend({
 });
 
 export default Application;
+

@@ -5,8 +5,8 @@ import './css/foundation.css';
 import './css/style.css';
 
 
-import Application from './app/models/application';
-import ApplicationView from './app/views/application_view';
+import Application from './models/application';
+import ApplicationView from './views/application_view';
 
 $(document).ready(function() {
   var application = new Application();
